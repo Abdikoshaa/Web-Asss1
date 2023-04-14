@@ -1,0 +1,83 @@
+
+
+/* Styling */
+
+body {
+  margin: auto;
+  width: 640px; 
+  padding: 50px;
+  font-family: 'Lexend Deca', sans-serif;     
+}
+
+section {
+	margin-bottom: 30px;
+}
+
+h1, h2, h3 {
+	margin-top: 0;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+
+a {
+	text-decoration: none;
+	color: #333;
+}
+
+footer {
+	background-color: #0000ff;
+}
+nav {
+	margin-bottom: 20px;
+}
+
+nav ul {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+ 
+nav li {
+	margin: 0 10px;
+}
+
+nav a {
+	font-weight: 600;
+}
+
+h1, h2 {
+	margin-bottom: 10px;
+}
+
+/* SSS */
+
+.bbb {
+	font-weight: 700;
+	font-size: 23px;
+	margin-bottom: 25px;
+}
+
+#edu h3, #past h3 {
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+
+.boom {
+  text-align: center;
+  color: red;
+}
+
+ul li {
+	margin-bottom: 25px;
+}
+
+ol li {
+	margin-bottom: 25px;
+}
